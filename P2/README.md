@@ -17,21 +17,17 @@ Idearemos una propuesta de valor y definiremos que funcionalides ofreceremos
 ---
 
 ## Mapa de empatia
-[VER]()
-
 Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.
 
 
 ---
 
 ## Propuesta de valor
-[VER]()
-
 Damos como propuesta de valor explotnado la socialización ofreciendo una funcionalidad
 que se basa en indicar que actividades nos podrian interesar hacer un determinado dia que tenemos un hueco y cuando suficientes usuarios 
 seleccionen una actividad se reservara de forma automatica esta actividad para estos usuarios.
 
-[Descripción](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)
+[Descripción](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)<br />
 [ScopeCanva](Entrega/scopecanva.pdf)
 ---
 
@@ -43,7 +39,7 @@ Las actividades mas relevantes tras hacer el analisis son en orden decreciente d
 3 - Ver detalles de una actividad
 4 - Buscar una actividad con filtros
 
-[Análisis](Entrega/TASK%20ANALYSIS.pdf)
+[Análisis](Entrega/TASK%20ANALYSIS.pdf)<br />
 [User Flow](Entrega/DIU_flow.png)
 
 ## Mapa de sitio
