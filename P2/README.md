@@ -23,9 +23,28 @@ Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las 
 ---
 
 ## Propuesta de valor
-Damos como propuesta de valor explotnado la socialización ofreciendo una funcionalidad
-que se basa en indicar que actividades nos podrian interesar hacer un determinado dia que tenemos un hueco y cuando suficientes usuarios 
-seleccionen una actividad se reservara de forma automatica esta actividad para estos usuarios.
+### Abstract
+Nuestra propuesta de valor consiste en ofrecer un servicio web que mitigue las carencias más comunes que suelen tener las páginas webs. En particular, queremos hacer hincapié en la relevancia y utilidad de la información alojada puesto que en muchas ocasiones esta no aparece de forma clara o está escondida detrás de un esquema de navegación anti intuitiva e inhumana. Pretendemos liberar la información de la basura de palabrejas usadas para SEO y enfocarnos en contenido genuino y valioso para los usuarios.
+
+Nos gustaría ofrecer una experiencia limpia,simple, consistente, sólida y madura sin complicaciones innecesarias o distracciones superfluas. Queremos que nuestros usuarios en un par de clicks obtengan toda la información necesaria para poder tomar decisiones sin tener que llamar por teléfono o escribir correos suplicando por la información. 
+
+Nuestra meta es crear un entorno web donde la información sea accesible, relevante y fácil de encontrar, brindando a nuestros usuarios una experiencia satisfactoria y enriquecedora cada vez que acuden a nuestro servicio.
+
+### Funcionalidad
+Nuestro servicio trata de los siguientes módulos:
+#### Usuarios
+son tanto las personas que están interesadas en alguna actividad (clientes) como las que ofrecen servicios (empresas)
+#### Actividades
+Son servicios ofertados por las empresas con la información como Fecha, Precio, Lugar, Hora
+#### Buscador
+Permite buscar por etiquetas o palabras claves alguna actividad relacionada, por ejemplo: “Cocina andalusí”
+#### Calendario
+Agrupa las actividades ofrecidas por fechas, proporcionando una visión temporal. 
+#### Tinder de actividades (GastroBuddies)
+Los usuarios de la app tendrán una funcionalidad para concretar actividades de la siguiente forma:
+1º - Definirán cuando quieren realizar una actividad. Por ejemplo: Sábado a partir de las 9.
+2º - Luego te empezaran a salir una serie de actividades con una pequeña descripción que cuadren con tus preferencias de búsqueda y podrás darle me gusta o rechazar la actividad.
+3º - Cuando suficientes usuarios hayan dado me gusta una actividad se les mandará un correo o notificación con la información de la actividad y si la aceptan tendrán reservada dicha actividad junto con los demás usuarios.
 
 [Descripcion](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
 [ScopeCanva](Entrega/scopecanva.pdf)
