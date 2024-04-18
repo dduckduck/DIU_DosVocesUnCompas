@@ -17,7 +17,7 @@ Idearemos una propuesta de valor y definiremos que funcionalides ofreceremos
 ---
 
 ## Mapa de empatia
-Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />
+Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />  
 [Mapa Empatia](Entrega/Empathy%20Map%20Practica%202.pdf)
 
 ---
@@ -26,8 +26,7 @@ Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las 
 Damos como propuesta de valor explotnado la socialización ofreciendo una funcionalidad
 que se basa en indicar que actividades nos podrian interesar hacer un determinado dia que tenemos un hueco y cuando suficientes usuarios 
 seleccionen una actividad se reservara de forma automatica esta actividad para estos usuarios.
-
-[Descripción](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)<br />
+[Descripcion](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)
 [ScopeCanva](Entrega/scopecanva.pdf)
 ---
 
