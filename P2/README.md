@@ -26,7 +26,8 @@ Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las 
 Damos como propuesta de valor explotnado la socialización ofreciendo una funcionalidad
 que se basa en indicar que actividades nos podrian interesar hacer un determinado dia que tenemos un hueco y cuando suficientes usuarios 
 seleccionen una actividad se reservara de forma automatica esta actividad para estos usuarios.
-[Descripcion](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)
+
+[Descripcion](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
 [ScopeCanva](Entrega/scopecanva.pdf)
 
 ---
@@ -40,10 +41,10 @@ Las actividades mas relevantes tras hacer el analisis son en orden decreciente d
 4 - Buscar una actividad con filtros
 
 [Análisis](Entrega/TASK%20ANALYSIS.pdf)<br />
-[User Flow](Entrega/DIU_flow.png)
+![User Flow](Entrega/DIU_flow.png)
 
 ## Mapa de sitio
-[SiteMap](Entrega/DIU_sitemap.png)  
+![SiteMap](Entrega/DIU_sitemap.png)  
 
 ---
 
