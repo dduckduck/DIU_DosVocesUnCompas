@@ -28,6 +28,7 @@ que se basa en indicar que actividades nos podrian interesar hacer un determinad
 seleccionen una actividad se reservara de forma automatica esta actividad para estos usuarios.
 [Descripcion](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)
 [ScopeCanva](Entrega/scopecanva.pdf)
+
 ---
 
 ## Analisis de Tareas
