@@ -30,17 +30,23 @@ Nos gustaría ofrecer una experiencia limpia,simple, consistente, sólida y madu
 
 Nuestra meta es crear un entorno web donde la información sea accesible, relevante y fácil de encontrar, brindando a nuestros usuarios una experiencia satisfactoria y enriquecedora cada vez que acuden a nuestro servicio.
 
+---
+
 ### Funcionalidad
 Nuestro servicio trata de los siguientes módulos:
-#### Usuarios
+- Usuarios:
 son tanto las personas que están interesadas en alguna actividad (clientes) como las que ofrecen servicios (empresas)
-#### Actividades
+
+- Actividades:
 Son servicios ofertados por las empresas con la información como Fecha, Precio, Lugar, Hora
-#### Buscador
+
+- Buscador:
 Permite buscar por etiquetas o palabras claves alguna actividad relacionada, por ejemplo: “Cocina andalusí”
-#### Calendario
+
+- Calendario
 Agrupa las actividades ofrecidas por fechas, proporcionando una visión temporal. 
-#### Tinder de actividades (GastroBuddies)
+
+- Tinder de actividades (GastroBuddies)
 Los usuarios de la app tendrán una funcionalidad para concretar actividades de la siguiente forma:
 1º - Definirán cuando quieren realizar una actividad. Por ejemplo: Sábado a partir de las 9.
 2º - Luego te empezaran a salir una serie de actividades con una pequeña descripción que cuadren con tus preferencias de búsqueda y podrás darle me gusta o rechazar la actividad.
@@ -63,7 +69,14 @@ Las actividades mas relevantes tras hacer el analisis son en orden decreciente d
 ![User Flow](Entrega/DIU_flow.png)
 
 ## Mapa de sitio
+En este sitemap se refleja la navegabilidad entre los diferentes elementos del sistema
 ![SiteMap](Entrega/DIU_sitemap.png)  
+
+
+## Labeling
+A continuación se presenta el labeling de los elementos del sistema
+
+![Labeling](Entrega/labelling.pdf)  
 
 ---
 
