@@ -66,6 +66,8 @@ Las actividades mas relevantes tras hacer el analisis son en orden decreciente d
 4 - Buscar una actividad con filtros
 
 [Análisis](Entrega/TASK%20ANALYSIS.pdf)<br />
+
+## User Flow
 ![User Flow](Entrega/DIU_flow.png)
 
 ## Mapa de sitio
