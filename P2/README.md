@@ -85,4 +85,14 @@ A continuación se presenta el labeling de los elementos del sistema
 ## Bocetos
 [Bocetos](Entrega/Bocetos.pdf)  
 
+## Wireframes
+### Desktop
+![Desktop](Entrega/wireframe_Desktop.png)
+
+### Ipad
+![Ipad](Entrega/wireframe_iPad%20Pro%2011.png)
+
+### Iphone
+![Iphone](Entrega/wireframe_iPhone_13_&_14%20.png)
+
 ---
