@@ -90,9 +90,9 @@ A continuación se presenta el labeling de los elementos del sistema
 ![Desktop](Entrega/wireframe_Desktop.png)
 
 ### Ipad
-![Ipad](Entrega/wireframe_iPad%20Pro%2011.png)
+![Ipad](wireframe_iPad_Pro_11.png)
 
 ### Iphone
-![Iphone](Entrega/wireframe_iPhone_13_&_14%20.png)
+![Iphone](Entrega/wireframe_iPhone_13_&_14.png)
 
 ---
