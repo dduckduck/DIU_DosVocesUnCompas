@@ -18,7 +18,7 @@ Idearemos una propuesta de valor y definiremos que funcionalides ofreceremos
 
 ## Mapa de empatia
 Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />  
-[Mapa Empatia](Entrega/Empathy%20Map%20Practica%202.pdf)
+[Mapa Empatia](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
 
 ---
 
@@ -52,8 +52,8 @@ Los usuarios de la app tendrán una funcionalidad para concretar actividades de 
 2º - Luego te empezaran a salir una serie de actividades con una pequeña descripción que cuadren con tus preferencias de búsqueda y podrás darle me gusta o rechazar la actividad.
 3º - Cuando suficientes usuarios hayan dado me gusta una actividad se les mandará un correo o notificación con la información de la actividad y si la aceptan tendrán reservada dicha actividad junto con los demás usuarios.
 
-[Descripcion](Entrega/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
-[ScopeCanva](Entrega/scopecanva.pdf)
+[Descripcion](Entrega/Entregables/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
+[ScopeCanva](Entrega/Entregables/scopecanva.pdf)
 
 ---
 
@@ -65,34 +65,34 @@ Las actividades mas relevantes tras hacer el analisis son en orden decreciente d
 3 - Ver detalles de una actividad
 4 - Buscar una actividad con filtros
 
-[Análisis](Entrega/TASK%20ANALYSIS.pdf)<br />
+[Análisis](Entrega/Entregables/TASK_ANALYSIS.pdf)<br />
 
 ## User Flow
-![User Flow](Entrega/DIU_flow.png)
+![User Flow](Entrega/Entregables/DIU_flow.png)
 
 ## Mapa de sitio
 En este sitemap se refleja la navegabilidad entre los diferentes elementos del sistema
-![SiteMap](Entrega/DIU_sitemap.png)  
+![SiteMap](Entrega/Entregables/DIU_sitemap.png)  
 
 
 ## Labeling
 A continuación se presenta el labeling de los elementos del sistema
 
-![Labeling](Entrega/labelling.pdf)  
+![Labeling](Entrega/Entregables/labelling.pdf)  
 
 ---
 
 ## Bocetos
-[Bocetos](Entrega/Bocetos.pdf)  
+[Bocetos](Entrega/Entregables/Bocetos.pdf)  
 
 ## Wireframes
 ### Desktop
-![Desktop](Entrega/wireframe_Desktop.png)
+![Desktop](Entrega/Entregables/wireframe_Desktop.png)
 
 ### Ipad
-![Ipad](wireframe_iPad_Pro_11.png)
+![Ipad](Entrega/Entregables/wireframe_iPad_Pro_11.png)
 
 ### Iphone
-![Iphone](Entrega/wireframe_iPhone_13_&_14.png)
+![Iphone](Entrega/Entregables/wireframe_iPhone_13_&_14.png)
 
 ---
