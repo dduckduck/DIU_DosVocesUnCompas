@@ -2,6 +2,8 @@
 
 ## Descripción
 
+Presentamos al inicio el moodboard con una serie de inspiraciones para luego empeazar nuestro propio diseño, pasamos al Landing Page donde plasmamos nuestras ideas formada con la auda de diferentes fuentes.
+Luego en el diseño final y la publicación de nuestro Case Study donde plasmamos como quedarian muchas de las fases de nuestra app.
 
 ## Contenido
 
@@ -15,7 +17,6 @@
 
 ## Moodboard
 Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />  
-[Mapa Empatia](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
 
 ---
 
