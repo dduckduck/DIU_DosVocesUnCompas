@@ -16,11 +16,20 @@ Luego en el diseño final y la publicación de nuestro Case Study donde plasmamo
 ---
 
 ## Moodboard
-Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />  
+Cogemos de diferentes fuentes inspiracion y plasmamos la fuente para de un vstazo poder sacar una idea o imagen de a donde queremos llegar y que aspecto debe de tener.
+<br />  
+
+![moodboard](mediaP3/moodboard.PNG)
 
 ---
 
 ## Landing Page
+
+En nuestro Landing Page, encontrarás más que solo una imagen. Es un espejo de nuestra identidad: vibrante, acogedora y llena de posibilidades. Desde el primer vistazo, te guiamos suavemente hacia donde necesitas estar, ofreciendo pistas claras sobre dónde encontrarnos. Pero más que eso, aquí respiras calma y curiosidad. Te invitamos a explorar, a sumergirte en lo desconocido con una sonrisa en el rostro.
+<br/>
+
+![landing page 1](mediaP3/land1.PNG)
+![landing page 2](mediaP3/land2.PNG)
 
 ---
 
