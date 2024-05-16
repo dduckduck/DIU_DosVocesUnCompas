@@ -25,7 +25,7 @@ Cogemos de diferentes fuentes inspiracion y plasmamos la fuente para de un vstaz
 
 ## Landing Page
 
-En nuestro Landing Page, encontrarás más que solo una imagen. Es un espejo de nuestra identidad: vibrante, acogedora y llena de posibilidades. Desde el primer vistazo, te guiamos suavemente hacia donde necesitas estar, ofreciendo pistas claras sobre dónde encontrarnos. Pero más que eso, aquí respiras calma y curiosidad. Te invitamos a explorar, a sumergirte en lo desconocido con una sonrisa en el rostro.
+En nuestro Landing Page, encontrarás algo mas que una imagen. Es un refeljo de lo que queremos trnasmitir: vibrante, acogedora y llena de posibilidades. Desde el primer vistazo, te guiamos hacia donde necesitas estar, ofreciendo pistas claras sobre dónde encontrarnos. Pero más que eso, queremos dar la sensacion de calma y curiosidad. Te invitamos a explorar, a sumergirte en lo que podrias descubrir aqui dentro.
 <br/>
 
 ![landing page 1](mediaP3/land1.PNG)
@@ -38,6 +38,10 @@ En nuestro Landing Page, encontrarás más que solo una imagen. Es un espejo de 
 ---
 
 ## Mockup: LAYOUT HI-FI
+
+Las paginas mas relevantes que hemos bocetado son las siguientes:
+- Pagina principal
+  
 
 ---
 
