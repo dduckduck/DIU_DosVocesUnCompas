@@ -37,7 +37,31 @@ En nuestro Landing Page, encontrarás algo mas que una imagen. Es un refeljo de 
 
 ---
 
+Tal y como sugiere el guion de la practica, se ha utilizado material ui. Se trata de un lenguaje de diseño desarrollado por Google que además trata de definir todas las caracteristicas de los elementos que forman una interfaz.  
+
+De todos los elementos propuestos en el guion, debido a las limitaciones de la version gratuita de figma, se han utilizado:
+
+- Onboarding
+- Menu (navBar adaptada a móvil)
+- Hero image + Carousel
+- Form Input
+- Item details + actions
+- about
+
 ## Mockup: LAYOUT HI-FI
+![Onboarding](mediaP3/onboarding.png)
+
+![Pagina principal](mediaP3/main.png)
+
+![Pagina principal con menu y perfil](mediaP3/menu_y_perfil.png)
+
+![Registro e inicio de sessión](mediaP3/reg_y_session.png)
+
+![Detalles de un evento](mediaP3/reservar.png)
+
+![GastroBuddies](mediaP3/gastrobuddies.png)
+
+![Opercion con exito y Contacto](mediaP3/exito_y_contacto.png)
 
 Las paginas mas relevantes que hemos bocetado son las siguientes:
 - Pagina principal <br/>
