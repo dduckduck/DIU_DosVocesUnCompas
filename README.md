@@ -167,29 +167,48 @@ Borrar perfil | Permite al usuario registrado borrar su perfil según la legisla
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Cogemos de diferentes fuentes inspiracion y plasmamos la fuente para de un vstazo poder sacar una idea o imagen de a donde queremos llegar y que aspecto debe de tener.
+<br />  
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+![moodboard](P3/mediaP3/moodboard.PNG)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+En nuestro Landing Page, encontrarás más que solo una imagen. Es un espejo de nuestra identidad: vibrante, acogedora y llena de posibilidades. Desde el primer vistazo, te guiamos suavemente hacia donde necesitas estar, ofreciendo pistas claras sobre dónde encontrarnos. Pero más que eso, aquí respiras calma y curiosidad. Te invitamos a explorar, a sumergirte en lo desconocido con una sonrisa en el rostro.
+<br/>
 
->>> Plantear Landing Page 
+![landing page 1](P3/mediaP3/land1.PNG)
+![landing page 2](P3/mediaP3/land2.PNG)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Tal y como sugiere el guion de la practica, se ha utilizado material ui. Se trata de un lenguaje de diseño desarrollado por Google que además trata de definir todas las caracteristicas de los elementos que forman una interfaz.  
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+De todos los elementos propuestos en el guion, debido a las limitaciones de la version gratuita de figma, se han utilizado:
+
+- Onboarding
+- Menu (navBar adaptada a móvil)
+- Hero image + Carousel
+- Form Input
+- Item details + actions
+- about
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+![Onboarding](P3/mediaP3/onboarding.png)
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Pagina principal](P3/mediaP3/main.png)
 
+![Pagina principal con menu y perfil](P3/mediaP3/menu_y_perfil.png)
+
+![Registro e inicio de sessión](P3/mediaP3/reg_y_session.png)
+
+![Detalles de un evento](P3/mediaP3/reservar.png)
+
+![GastroBuddies](P3/mediaP3/gastrobuddies.png)
+
+![Opercion con exito y Contacto](P3/mediaP3/exito_y_contacto.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
