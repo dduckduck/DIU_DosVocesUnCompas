@@ -66,12 +66,8 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
 Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />  
+![Mapa de empatia](P2/Entrega/Entregables/Empathy%20Map%20Practica%202.png)
 [Mapa Empatia](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
     
 
