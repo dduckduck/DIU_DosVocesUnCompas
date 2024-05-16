@@ -63,21 +63,6 @@ De todos los elementos propuestos en el guion, debido a las limitaciones de la v
 
 ![Opercion con exito y Contacto](mediaP3/exito_y_contacto.png)
 
-Las paginas mas relevantes que hemos bocetado son las siguientes:
-- Pagina principal <br/>
-![Pagina principal](mediaP3/main.PNG)
-
-- Gastro Buddies <br/>
-![Gastro Buddies](mediaP3/gbuddies.PNG)
-
-- Mis Buddies <br/>
-![Mis Buddies](mediaP3/buddies.PNG)
-
-- Evento <br/>
-![Evento](mediaP3/evento.PNG)
-
-- Registro / Login <br/>
-![Evento](mediaP3/loginRegistro.PNG)
 
 
 ---
