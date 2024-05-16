@@ -1,64 +1,102 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+## Grupo: DIU2_DosVocesUnCompas.  Curso: 2023/24 Updated: 11/2/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+## Proyecto: GastroBuddies
 
-Descripción: 
+### Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+> Nuestra propuesta consiste en ofrecer un servicio web en el que los usuarios puedan descubrir las ofertas gastronómicas en Granada
+
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
-Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+Miembros:
+- Tú
+- Yo
+
 
 ----- 
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
-## Paso 1. UX User & Desk Research & Analisis 
+## Paso 1. UX User & Desk Research & Analisis
+
+Para poder realizar un user research podemos basarnos en una investigación cualitativa usando etnografías, entrevistas o observaciones directas, o una investigación cuantitativa realizando un análisis del comportamiento de los usuarios. 
+
+En nuestro caso, nos hemos fijado en ofertas en Granada, en las opiniones de las personas y escogimos aquellas en las que la experiencia ha sido negativa de forma objetiva y analizarlas. Para lograr un resultado adecuado es evidente la necesidad de comunicación y empatía.
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
------
+---
 
->>> Describe el plan de User Research (cómo se planteas)  
-
-![Método UX](img/Competitive.png) 1.b Competitive Analysis
------
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
-
-![Método UX](img/Persona.png) 1.c Persona
------
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
-
-![Método UX](img/JourneyMap.png) 1.d User Journey Map
-----
+## 1.b Competitive Analysis
+En nuestro caso hemos elegido dos páginas que hemos buscado [Patata Santa](https://www.patatasanta.com/) y [Garnata Tours](https://www.garnatatours.com/) ademas de la propia pagina que se propone en el guión. Para más detalles visite este [documento](P1/Entrega/Analisis%20competencia%20-%20Justificación.pdf)
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Al final los puestos seguún nuestra clasificacion han sido:  
+- 1º Granada Cooking  
+- 2º Patata Santa  
+- 3º Garnata 
 
-![Método UX](img/usabilityReview.png) 1.e Usability Review
-----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+![](P1/Competitor_Analysis.png)
+
+---
+
+## 1.c Persona
+### 1.c.1 Carmen Maria
+#### ¿Por que Maria?
+>Carmen es una mujer de naturaleza artística, es bastante directa y no suele andar con rodeos. Suele decir las cosas tal y como las piensa, cosa que a veces le da un aire cateto y brusco a pesar de su refinado gusto músical. 
+
+>Pasa muchas horas delante del piano pues está entregada al arte al 110% lo que le permite ofrecer un espectáculo de calidad y de muy alto nivel. No obstante, el precio a pagar
+por volar tan alto es la soledad pues le queda muy poco tiempo para el ocio. 
+
+>Tiene deseo de hacer nuevos amigos y conocer a nuevas personas.
+Confiemos en que lo consiga en breve pues ahora mismo está en Granada y tiene ganas de descubrir la gastronomía local.
+
+![VER](P1/Persona_1.png)  
+
+### 1.c.2 Antonio Martin
+#### ¿Por que Antonio?
+>Antonio es un hombre de mediana edad inglés que se dispone a visitar granada. Esta es la premisa
+principal sobre la que se desarrolla.
+Teniendo en cuenta que nos basamos en la ciudad de granada para desarrollar la actividad donde
+prolifera el turismo tener en cuenta a una persona cuyo origen es otro país puede ser una gran idea
+
+![VER](P1/Persona_2.png)  
+
+
+## 1.d User Journey Map
+### 1.d.1 Carmen Maria
+>Carmen decide buscar sitios donde poder vivir
+experiencias gastronómicas. Para ello decide usar internet. A continuación se ofrecen los pasos que realiza y las emociones que le acompañnan
+
+![VER](P1/Journey_Map_Persona_1.png)
+
+### 1.d.2 Antonio Martin
+>Antonio es un hombre de mediana edad inglés que se dispone a visitar granada. Esta es la premisa
+principal sobre la que se desarrolla.
+Teniendo en cuenta que nos basamos en la ciudad de granada para desarrollar la actividad donde
+prolifera el turismo tener en cuenta a una persona cuyo origen es otro país puede ser una gran idea.
+
+![VER](P1/Journey_Map_Persona_2.png)  
+
+---
+
+## 1.e Usability Review
+Enlaces a las valoraciones de usabilidad (Usability Reviews):
+
+🔗[Usability Rebiew](P1/Entrega/UsabilityReview.pdf)
+
+
+🥈 Valoración final (numérica): 59/100 - Moderado
+
+> Los usuarios pueden usar la página y llevar al cabo las operaciones básicas. No obstante, la experiencia deja mucho que desear...
 
 ## Paso 2. UX Design  
 
