@@ -40,8 +40,21 @@ En nuestro Landing Page, encontrarás algo mas que una imagen. Es un refeljo de 
 ## Mockup: LAYOUT HI-FI
 
 Las paginas mas relevantes que hemos bocetado son las siguientes:
-- Pagina principal
-  
+- Pagina principal <br/>
+![Pagina principal](mediaP3/main.PNG)
+
+- Gastro Buddies <br/>
+![Gastro Buddies](mediaP3/gbuddies.PNG)
+
+- Mis Buddies <br/>
+![Mis Buddies](mediaP3/buddies.PNG)
+
+- Evento <br/>
+![Evento](mediaP3/evento.PNG)
+
+- Registro / Login <br/>
+![Evento](mediaP3/loginRegistro.PNG)
+
 
 ---
 
