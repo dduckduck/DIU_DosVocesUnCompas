@@ -67,46 +67,102 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
+
+Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />  
+[Mapa Empatia](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+### Abstract
+Nuestra propuesta de valor consiste en ofrecer un servicio web que mitigue las carencias más comunes que suelen tener las páginas webs. En particular, queremos hacer hincapié en la relevancia y utilidad de la información alojada puesto que en muchas ocasiones esta no aparece de forma clara o está escondida detrás de un esquema de navegación anti intuitiva e inhumana. Pretendemos liberar la información de la basura de palabrejas usadas para SEO y enfocarnos en contenido genuino y valioso para los usuarios.
+
+Nos gustaría ofrecer una experiencia limpia,simple, consistente, sólida y madura sin complicaciones innecesarias o distracciones superfluas. Queremos que nuestros usuarios en un par de clicks obtengan toda la información necesaria para poder tomar decisiones sin tener que llamar por teléfono o escribir correos suplicando por la información. 
+
+Nuestra meta es crear un entorno web donde la información sea accesible, relevante y fácil de encontrar, brindando a nuestros usuarios una experiencia satisfactoria y enriquecedora cada vez que acuden a nuestro servicio.
+
+---
+
+### Funcionalidad
+Nuestro servicio trata de los siguientes módulos:
+- Usuarios:
+son tanto las personas que están interesadas en alguna actividad (clientes) como las que ofrecen servicios (empresas)
+
+- Actividades:
+Son servicios ofertados por las empresas con la información como Fecha, Precio, Lugar, Hora
+
+- Buscador:
+Permite buscar por etiquetas o palabras claves alguna actividad relacionada, por ejemplo: “Cocina andalusí”
+
+- Calendario
+Agrupa las actividades ofrecidas por fechas, proporcionando una visión temporal. 
+
+- Tinder de actividades (GastroBuddies)
+Los usuarios de la app tendrán una funcionalidad para concretar actividades de la siguiente forma:
+1º - Definirán cuando quieren realizar una actividad. Por ejemplo: Sábado a partir de las 9.
+2º - Luego te empezaran a salir una serie de actividades con una pequeña descripción que cuadren con tus preferencias de búsqueda y podrás darle me gusta o rechazar la actividad.
+3º - Cuando suficientes usuarios hayan dado me gusta una actividad se les mandará un correo o notificación con la información de la actividad y si la aceptan tendrán reservada dicha actividad junto con los demás usuarios.
+
+[Descripcion](P2/Entrega/Entregables/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
+[ScopeCanva](P2/Entrega/Entregables/scopecanva.pdf)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![User Flow](P2/Entrega/Entregables/DIU_flow.png) 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+En este sitemap se refleja la navegabilidad entre los diferentes elementos del sistema
+![SiteMap](P2/Entrega/Entregables/DIU_sitemap.png)  
 
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
-
+  Usuario  | Persona que interactúa con el sistema
+  Usuario registrado  | Persona que ha formalizado el proceso de registrarse
+  Usuario cliente  | Persona que ha registrado su perfil como cliente. Puede reservar actividades pero no puede publicar una actividad
+  Usuario empresa  | Persona que ha registrado su perfil como empresa. Puede publicar sus actividades
+  Página principal  | Es el punto de partida, aquí se muestra una visión general sobre los contenidos que ofrece este sitio web.
+  GastroBuddies  | Agrupa la funcionalidad del módulo GastroBuddies  
+  Ver Buddies  | Muestra una serie de sugerencias de eventos acordes a las preferencias que el usuario indicó en su perfil  
+  Ver actividades  | Muestra la información sobre las actividades en las que participa el usuario
+  Preferencias  | Permite al usuario establecer sus preferencias que se utilizaran para las recomendaciones de actividades (Ver buddies)
+  Iniciar sesión  | Permite al usuario identificarse en el caso de que esté registrado en el sistema
+  Registrarse  | Permite al usuario registrarse en el sistema si aún no está registrado
+  Calendario actividades  | Este módulo ofrece una visión temporal y espacial sobre las actividades que están registrados en el sistema
+  Detalles de una actividad  | Muestra toda la información correspondiente a una actividad
+  Reservar actividad  | Permite al usuario reservar una actividad en la que el usuario está interesado.
+  Mi Perfil  | Módulo que engloba la funcionalidad de gestión de los datos del usuario
+  Gestionar datos  | Permite al usuario modificar sus datos
+Gestionar actividades  | Permite al usuario gestionar las actividades que ha reservado
+  Añadir actividad  | Permite al usuario empresa añadir una actividad que se mostrará en el calendario de actividades
+  Modificar actividad  | Permite al usuario empresa editar la actividad que ha añadido
+  Cancelar actividad  | Permite al usuario empresa borrar una actividad que ha registrado previamente. En el caso de ser usuario cliente permite cancelar la actividad que ha reservado previamente
+Borrar perfil | Permite al usuario registrado borrar su perfil según la legislación europea de protección de datos
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+[Bocetos](P2/Entrega/Entregables/Bocetos.pdf)  
+
+## Wireframes
+### Desktop
+![Desktop](P2/Entrega/Entregables/wireframe_Desktop.png)
+
+### Ipad
+![Ipad](P2/Entrega/Entregables/wireframe_iPad_Pro_11.png)
+
+### Iphone
+![Iphone](P2/Entrega/Entregables/wireframe_iPhone_13_&_14.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
