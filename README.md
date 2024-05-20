@@ -208,7 +208,9 @@ Borrar perfil | Permite al usuario registrado borrar su perfil según la legisla
 Cogemos de diferentes fuentes inspiracion y plasmamos la fuente para de un vstazo poder sacar una idea o imagen de a donde queremos llegar y que aspecto debe de tener.
 <br />  
 
-![moodboard](P3/mediaP3/moodboard.PNG)
+![moodboard](P3/mediaP3/moodboard.png)
+
+
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
