@@ -19,7 +19,7 @@ Luego en el diseño final y la publicación de nuestro Case Study donde plasmamo
 Cogemos de diferentes fuentes inspiracion y plasmamos la fuente para de un vstazo poder sacar una idea o imagen de a donde queremos llegar y que aspecto debe de tener.
 <br />  
 
-![moodboard](mediaP3/moodboard.PNG)
+![moodboard](mediaP3/moodboard.png)
 
 ---
 
