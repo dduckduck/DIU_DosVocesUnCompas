@@ -238,10 +238,11 @@ De todos los elementos propuestos en el guion, debido a las limitaciones de la v
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-A continuación dejamos dos enlaces
-- ![Prototipo](https://www.figma.com/proto/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795-1899&t=T8mgKNFmdSKIaoBl-1&scaling=scale-down&page-id=54795%3A1898&starting-point-node-id=54795%3A5529
+A continuación dejamos dos enlaces:
 
-- ![Proyecto Fogma](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795%3A1898&t=0cC1bGppXBtk2T8i-1)
+- [Prototipo](https://www.figma.com/proto/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795-1899&t=T8mgKNFmdSKIaoBl-1&scaling=scale-down&page-id=54795%3A1898&starting-point-node-id=54795%3A5529
+
+- [Proyecto Figma](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795%3A1898&t=0cC1bGppXBtk2T8i-1)
 ----
 ![Onboarding](P3/mediaP3/onboarding.png)
 
