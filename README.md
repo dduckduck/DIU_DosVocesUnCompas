@@ -238,7 +238,7 @@ De todos los elementos propuestos en el guion, debido a las limitaciones de la v
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-[Enlace al prototipo FIGMA](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795%3A1898&t=0cC1bGppXBtk2T8i-1)
+A continuación se deja un [enlace al prototipo FIGMA](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795%3A1898&t=0cC1bGppXBtk2T8i-1)
 ----
 ![Onboarding](P3/mediaP3/onboarding.png)
 
