@@ -49,6 +49,9 @@ De todos los elementos propuestos en el guion, debido a las limitaciones de la v
 - about
 
 ## Mockup: LAYOUT HI-FI
+
+[Enlace al prototipo FIGMA](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795%3A1898&t=0cC1bGppXBtk2T8i-1)
+----
 ![Onboarding](mediaP3/onboarding.png)
 
 ![Pagina principal](mediaP3/main.png)

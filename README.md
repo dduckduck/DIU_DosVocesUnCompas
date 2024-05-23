@@ -223,6 +223,7 @@ En nuestro Landing Page, encontrarás más que solo una imagen. Es un espejo de 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+
 Tal y como sugiere el guion de la practica, se ha utilizado material ui. Se trata de un lenguaje de diseño desarrollado por Google que además trata de definir todas las caracteristicas de los elementos que forman una interfaz.  
 
 De todos los elementos propuestos en el guion, debido a las limitaciones de la version gratuita de figma, se han utilizado:
@@ -235,6 +236,8 @@ De todos los elementos propuestos en el guion, debido a las limitaciones de la v
 - about
 
 ![Método UX](img/mockup.png)  3.d Mockup
+----
+[Enlace al prototipo FIGMA](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795%3A1898&t=0cC1bGppXBtk2T8i-1)
 ----
 ![Onboarding](P3/mediaP3/onboarding.png)
 
