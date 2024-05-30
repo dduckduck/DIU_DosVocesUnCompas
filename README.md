@@ -6,16 +6,19 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... )
 ## Proyecto: GastroBuddies
 
 ### Descripción: 
-
-> Nuestra propuesta consiste en ofrecer un servicio web en el que los usuarios puedan descubrir las ofertas gastronómicas en Granada
-
-
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![](P3/mediaP3/logo.png)
+
+
+Este proyecto consiste en ofrecer una aplciación para los dispositivos moviles que permita conocer oferta gastrónomica en Granada y conocer gente. 
+
+
+
 
 Miembros:
-- Tú
-- Yo
+- Timur Sorokin sorokintimur@correo.ugr.es 
+- AAA AAA AAA
 
 
 ----- 
@@ -27,28 +30,39 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis
 
-Para poder realizar un user research podemos basarnos en una investigación cualitativa usando etnografías, entrevistas o observaciones directas, o una investigación cuantitativa realizando un análisis del comportamiento de los usuarios. 
-
-En nuestro caso, nos hemos fijado en ofertas en Granada, en las opiniones de las personas y escogimos aquellas en las que la experiencia ha sido negativa de forma objetiva y analizarlas. Para lograr un resultado adecuado es evidente la necesidad de comunicación y empatía.
-
+Para llevar a cabo nuestro estudio, nos hemos enfocado en las ofertas gastronómicas ya existentes en Granada y en las opiniones de las personas sobre estas ofertas prestando especial interes a las posibles necesidades y frustraciones que pueden tener los hipoteticos usuarios.
 
 ---
 
 ## 1.b Competitive Analysis
-En nuestro caso hemos elegido dos páginas que hemos buscado [Patata Santa](https://www.patatasanta.com/) y [Garnata Tours](https://www.garnatatours.com/) ademas de la propia pagina que se propone en el guión. Para más detalles visite este [documento](P1/Entrega/Analisis%20competencia%20-%20Justificación.pdf)
+En primer lugar, a parte de la sugerencia de la página propuesta en el guion, hemos realizado una busqueda de posibles competidores de los cuales hemos escogido dos:
+- [Patata Santa](https://www.patatasanta.com/)
+  
+  una revista gastronómica en la que se destaca su sección de articulos. En este se puede descrubrir los diferentes lugares de indole gastronomico  de españa.
+
+- [Garnata Tours](https://www.garnatatours.com/) 
+
+una página de actividades turisticas. Su relevancia como competidor es su catalogo que incluye, además de visitas turisticas, las distintas actividades culinarias. 
 
 
-Al final los puestos seguún nuestra clasificacion han sido:  
+En el documento presentado a continuación, se puede ver el análisis con la puntuación de los competidores escogidos. 
+
+
+
+
+![](P1/Competitor_Analysis.png)
+
+
+Finalmente, para concluir, el ranking según la puntuación queda tal que así:
 - 1º Granada Cooking  
 - 2º Patata Santa  
 - 3º Garnata 
 
 
-![](P1/Competitor_Analysis.png)
-
 ---
 
 ## 1.c Persona
+A continuación, se presentan dos personas ficticias:
 ### 1.c.1 Carmen Maria
 #### ¿Por que Maria?
 >Carmen es una mujer de naturaleza artística, es bastante directa y no suele andar con rodeos. Suele decir las cosas tal y como las piensa, cosa que a veces le da un aire cateto y brusco a pesar de su refinado gusto músical. 
@@ -104,19 +118,27 @@ Enlaces a las valoraciones de usabilidad (Usability Reviews):
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-Reflejamos que puede expresar pensar o decir un usuario de nuestra web o de las propias webs del mismo nicho del mercado. Exponemos varios puntos de vista y vemos que podmeos evitar para no dar porblemas y que puntos no estan lo suficientemente explotados.<br />  
+Una vez terminada la practica 1, continuamos el desarrollo de esta asignatura con un mapa de empatia de las personas ficticias que hemos ingeniado previamete, Carmen y Antonio. En este mapa intentaremos plasmar de forma especulativa, aunque tal vez estructurada, los aspectos tales como: 
+- Lo que puede sentir el usuario
+- Lo que hace y lo que dice
+- Lo que podria escuchar
+- Los beneficios y los incovenientes
+
+El color azul está reservado para Anotio, mientras que el naranja para Carmen. 
+
 ![Mapa de empatia](P2/Entrega/Entregables/Empathy%20Map%20Practica%202.png)
-[Mapa Empatia](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
+
+
+[Mapa Empatia version pdf](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
     
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-### Abstract
-Nuestra propuesta de valor consiste en ofrecer un servicio web que mitigue las carencias más comunes que suelen tener las páginas webs. En particular, queremos hacer hincapié en la relevancia y utilidad de la información alojada puesto que en muchas ocasiones esta no aparece de forma clara o está escondida detrás de un esquema de navegación anti intuitiva e inhumana. Pretendemos liberar la información de la basura de palabrejas usadas para SEO y enfocarnos en contenido genuino y valioso para los usuarios.
 
-Nos gustaría ofrecer una experiencia limpia,simple, consistente, sólida y madura sin complicaciones innecesarias o distracciones superfluas. Queremos que nuestros usuarios en un par de clicks obtengan toda la información necesaria para poder tomar decisiones sin tener que llamar por teléfono o escribir correos suplicando por la información. 
+Nuestra propuesta de valor consiste en ofrecer un servicio web que mitigue las carencias más comunes que suelen tener las páginas webs. En particular, queremos hacer hincapié en la relevancia y utilidad de la información alojada puesto que en muchas ocasiones esta no aparece de forma clara o está escondida detrás de un esquema de navegación anti intuitiva e inhumana. 
+
 
 Nuestra meta es crear un entorno web donde la información sea accesible, relevante y fácil de encontrar, brindando a nuestros usuarios una experiencia satisfactoria y enriquecedora cada vez que acuden a nuestro servicio.
 
@@ -124,29 +146,42 @@ Nuestra meta es crear un entorno web donde la información sea accesible, releva
 
 ### Funcionalidad
 Nuestro servicio trata de los siguientes módulos:
-- Usuarios:
+- **Usuarios**:
 son tanto las personas que están interesadas en alguna actividad (clientes) como las que ofrecen servicios (empresas)
 
-- Actividades:
+- **Actividades**:
 Son servicios ofertados por las empresas con la información como Fecha, Precio, Lugar, Hora
 
-- Buscador:
+- **Buscador**:
 Permite buscar por etiquetas o palabras claves alguna actividad relacionada, por ejemplo: “Cocina andalusí”
 
-- Calendario
+- **Calendario**
 Agrupa las actividades ofrecidas por fechas, proporcionando una visión temporal. 
 
-- Tinder de actividades (GastroBuddies)
-Los usuarios de la app tendrán una funcionalidad para concretar actividades de la siguiente forma:
-1º - Definirán cuando quieren realizar una actividad. Por ejemplo: Sábado a partir de las 9.
-2º - Luego te empezaran a salir una serie de actividades con una pequeña descripción que cuadren con tus preferencias de búsqueda y podrás darle me gusta o rechazar la actividad.
-3º - Cuando suficientes usuarios hayan dado me gusta una actividad se les mandará un correo o notificación con la información de la actividad y si la aceptan tendrán reservada dicha actividad junto con los demás usuarios.
+- **Tinder de actividades (GastroBuddies)**
+Este servicio extra está enfocado en fomentar la socialización. Para ello, se pretende que :
 
+     1 - El usuario, mediante palabras claves, define el tipo de actividades que le gustaria realizar
+
+  2 - Estas preferencias se utilizarán para mostrar al usuario las sugerencias relacionadas. De modo que el usuario puede aceptar o rechazar la sugerencia. 
+
+  3 - Una vez que se haya llegado a un número minimo de interesados, se creará un grupo con los participantes y se reservará el sitio. 
+
+  4 - Una vez terminada la actividad, los usuarios podrán valorar su experiencia en cuanto al sitio y los participantes.
+
+
+A continuación, recogemos los puntos claves, o al menos de interes, que han de ser considerados para nuestra propuesta:
+
+![](P2/Entrega/Entregables/scopecanva.png)
 [Descripcion](P2/Entrega/Entregables/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
 [ScopeCanva](P2/Entrega/Entregables/scopecanva.pdf)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+
+El siguiente paso consiste en estimar las posibles acciones que deberían poder ser llevados a cabo por el usuario y finalmente plantear un prototipo de la página web. Para ello, presentamos task analysis y algunos flow 
+
+![](P2/Entrega/Entregables/task_analysis.png)
 
 ![User Flow](P2/Entrega/Entregables/DIU_flow.png) 
 
@@ -154,10 +189,13 @@ Los usuarios de la app tendrán una funcionalidad para concretar actividades de 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-En este sitemap se refleja la navegabilidad entre los diferentes elementos del sistema
+A continuación, ofrecemos nuestra visión en cuanto a la navegabilidad entre los elementos de nuestra página web.
+
+
 ![SiteMap](P2/Entrega/Entregables/DIU_sitemap.png)  
 
->>> Identificar términos para diálogo con usuario  
+
+A parte del esquema de navegación, definimos una serie de terminos que se utilizarán en cuanto a lo referente la nuestra página web que viene recogidos en la tabla a continuación. También, sugerimos sugerimos  la consulta de este documento [labeling.pdf](P2/Entrega/Entregables/labelling.pdf)
 
 Término | Significado     
 | ------------- | -------
@@ -186,13 +224,21 @@ Borrar perfil | Permite al usuario registrado borrar su perfil según la legisla
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-[Bocetos](P2/Entrega/Entregables/Bocetos.pdf)  
+La imagen que aparece a continuación representa nuestra visión de la página web. Se trata de un simple esbozo a partir de cual pretendemos construir nuestro prototipo.
+![](P2/Entrega/Entregables/bocetos.png)
+
 
 ## Wireframes
 ### Desktop
+Para los usuarios desktop, ofrecemos la siguiente representación esquemática. Los elementos a destacar son
+- La cabecera que tendrá logo, opción de iniciar sesión y el menu de navegación.
+- La parte central mostrará un calendario con todos los eventos disponibles. Queda pendiente establecer cómo se representarán múltiples eventos en un mismo día; sin embargo, en esta etapa, consideramos que es un aspecto trivial y tal vez, inlcuso, irrelevante.
+
+
 ![Desktop](P2/Entrega/Entregables/wireframe_Desktop.png)
 
 ### Ipad
+Se sigue la misma idea que en el caso anterior siendo los elementos protagonistas la cabecera y el calendario. 
 ![Ipad](P2/Entrega/Entregables/wireframe_iPad_Pro_11.png)
 
 ### Iphone
@@ -202,11 +248,22 @@ Borrar perfil | Permite al usuario registrado borrar su perfil según la legisla
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
+En esta etapa, el enfoque del proyecto ha cambiado de una página web a una aplicación móvil. Por ello, hemos adaptado la funcionalidad planteada anteriormente en la medida de lo posible. Sin embargo, estos cambios significativos han dificultado la integración de algunos elementos desarrollados en prácticas anteriores, lo que ha dejado parte del trabajo intelectual previo sin aprovechar.
+
+Para lograr una integración más coherente, sería necesario retroceder y replantear aspectos como la navegabilidad, el análisis de tareas, el flujo, y el etiquetado. Sin embargo, debido a la carga lectiva y el tiempo limitado, no siempre es posible realizar estos ajustes en profundidad.
+
+A pesar de estas circunstancias, a continuación presentamos de la mejor manera posible los resultados obtenidos en la práctica 3
+
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-Cogemos de diferentes fuentes inspiracion y plasmamos la fuente para de un vstazo poder sacar una idea o imagen de a donde queremos llegar y que aspecto debe de tener.
-<br />  
+En la imagen a continuación, presentamos el moodboard. Este se divide en dos partes, separadas por una línea gris en el centro: el brainstorming y el resultado final.
+
+En la sección de brainstorming, hemos reunido los elementos de interés que podrían ser aprovechados para nuestra ~~pagina web~~ aplicación móvil. Primero, exploramos opciones para el logo del proyecto utilizando herramientas de inteligencia artificial para generar imágenes que podrían servir como logo. Luego, analizamos diversas herramientas para obtener una paleta de colores adecuada. También investigamos diferentes tipografías con el propósito de identificar aquellas que faciliten una lectura sencilla y clara.
+
+Además, incluimos iconos cuyo significado se describe en el etiquetado presentado anteriormente en el punto 2c. Por último, intentamos identificar los sentimientos que debería provocar la interacción con la aplicación.
+
+Finalmente, en la parte derecha, presentamos las conclusiones a las que llegamos después de finalizar el brainstorming.
 
 ![moodboard](P3/mediaP3/moodboard.png)
 
@@ -215,8 +272,9 @@ Cogemos de diferentes fuentes inspiracion y plasmamos la fuente para de un vstaz
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-En nuestro Landing Page, encontrarás más que solo una imagen. Es un espejo de nuestra identidad: vibrante, acogedora y llena de posibilidades. Desde el primer vistazo, te guiamos suavemente hacia donde necesitas estar, ofreciendo pistas claras sobre dónde encontrarnos. Pero más que eso, aquí respiras calma y curiosidad. Te invitamos a explorar, a sumergirte en lo desconocido con una sonrisa en el rostro.
-<br/>
+A continuación se presenta dos versiones de landing page siendo la segunda la versión definitiva. En esta página el usuario podrá acceder a la descarga de nuestra aplicación. 
+En cuanto al diseño, se ha escogido Alhambra como elemento identificativo de Granada y colores pastel para el deleite de la vista del usuario.
+
 
 ![landing page 1](P3/mediaP3/land1.PNG)
 ![landing page 2](P3/mediaP3/land2.PNG)
@@ -224,9 +282,7 @@ En nuestro Landing Page, encontrarás más que solo una imagen. Es un espejo de 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Tal y como sugiere el guion de la practica, se ha utilizado material ui. Se trata de un lenguaje de diseño desarrollado por Google que además trata de definir todas las caracteristicas de los elementos que forman una interfaz.  
-
-De todos los elementos propuestos en el guion, debido a las limitaciones de la version gratuita de figma, se han utilizado:
+Hemos obedecido las sugerencias del guion y hemos utilizado material kit ui para nuestro prototipo. A continuación ofrecemos una lista de los elementos utilizados
 
 - Onboarding
 - Menu (navBar adaptada a móvil)
@@ -234,6 +290,7 @@ De todos los elementos propuestos en el guion, debido a las limitaciones de la v
 - Form Input
 - Item details + actions
 - about
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -244,13 +301,25 @@ A continuación dejamos dos enlaces:
 
 - [Proyecto Figma](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5DEsto-es-mi-Practica-3?node-id=54795%3A1898&t=0cC1bGppXBtk2T8i-1)
 ----
+Elemento/s: onboarding
+
 ![Onboarding](P3/mediaP3/onboarding.png)
 
+----
+
+Elemento/s: carousel + hero image, NavBar, lista, item details, actions
+
 ![Pagina principal](P3/mediaP3/main.png)
+----
 
 ![Pagina principal con menu y perfil](P3/mediaP3/menu_y_perfil.png)
+----
+
+Elemento/s: logo, button, form input
 
 ![Registro e inicio de sessión](P3/mediaP3/reg_y_session.png)
+
+Elemento/s: card, comentarios, button
 
 ![Detalles de un evento](P3/mediaP3/reservar.png)
 
@@ -262,8 +331,7 @@ A continuación dejamos dos enlaces:
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+<video width="630" height="300" src="P3/mediaP3/Grabación 2024-05-30 124742.mp4"></video>
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
