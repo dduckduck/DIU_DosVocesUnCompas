@@ -331,7 +331,8 @@ Elemento/s: card, comentarios, button
 -----
 
 
-<video width="630" height="300" src="P3/mediaP3/Grabación 2024-05-30 124742.mp4"></video>
+![Demo](P3/mediaP3/demo.gif)
+![Demo](P3/mediaP3/Grabación%202024-05-30%20124742.mp4)
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
