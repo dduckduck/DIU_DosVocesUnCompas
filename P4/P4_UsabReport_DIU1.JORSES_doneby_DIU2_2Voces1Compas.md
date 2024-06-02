@@ -128,7 +128,8 @@ Heatmaps de Isabel
 ## 5. Test SUS
 
 Por último, ofrecemos resultados del cuestionario SUS rellenados por los usuarios
-![Test SUS](../img/testSUS.JPG)
+
+![Test SUS](Entrega/testSUS.JPG)
 
 ## 6. CONCLUSIONES 
 Una vez obtenidos los resultados de las pruebas realizadas en los apartados anteriores, se puede observar que en ambos casos la experiencia de usuario ha sido en mayor o menor medida aceptable. Además, puesto que se trata de un prototipo que ni siquiera es una versión alpha, se puede decir que ambas propuestas han cumplido con los desafíos propuestos a lo largo de las prácticas de esta asignatura.
