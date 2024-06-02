@@ -11,14 +11,14 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... )
 
 ### Descripción: 
 
-Este proyecto consiste en ofrecer una aplicación para los dispositivos moviles que permita conocer oferta gastrónomica en Granada y conocer gente. 
+Este proyecto consiste en ofrecer una aplicación para los dispositivos móviles que permita conocer oferta gastronómica en Granada y conocer gente. 
 
 
 
 
 Miembros:
 - Timur Sorokin sorokintimur@correo.ugr.es 
-- AAA AAA AAA
+- Pon tu nombre
 
 
 ----- 
@@ -30,19 +30,19 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis
 
-Para llevar a cabo nuestro estudio, nos hemos enfocado en las ofertas gastronómicas ya existentes en Granada y en las opiniones de las personas sobre estas ofertas prestando especial interes a las posibles necesidades y frustraciones que pueden tener los hipoteticos usuarios.
+Para llevar a cabo nuestro estudio, nos hemos enfocado en las ofertas gastronómicas ya existentes en Granada y en las opiniones de las personas sobre estas ofertas prestando especial interés a las posibles necesidades y frustraciones que pueden tener los hipotéticos usuarios.
 
 ---
 
 ## 1.b Competitive Analysis
-En primer lugar, a parte de la sugerencia de la página propuesta en el guion, hemos realizado una busqueda de posibles competidores de los cuales hemos escogido dos:
+En primer lugar, a parte de la sugerencia de la página propuesta en el guion, hemos realizado una búsqueda de posibles competidores de los cuales hemos escogido dos:
 - [Patata Santa](https://www.patatasanta.com/)
   
-  una revista gastronómica en la que se destaca su sección de articulos. En este se puede descrubrir los diferentes lugares de indole gastronomico  de españa.
+  una revista gastronómica en la que se destaca su sección de artículos. En este se puede descubrir los diferentes lugares de indole gastronómico  de España.
 
 - [Garnata Tours](https://www.garnatatours.com/) 
 
-una página de actividades turisticas. Su relevancia como competidor es su catalogo que incluye, además de visitas turisticas, las distintas actividades culinarias. 
+una página de actividades turísticas. Su relevancia como competidor es su catalogo que incluye, además de visitas turísticas, las distintas actividades culinarias. 
 
 
 En el documento presentado a continuación, se puede ver el análisis con la puntuación de los competidores escogidos. 
@@ -65,7 +65,7 @@ Finalmente, para concluir, el ranking según la puntuación queda tal que así:
 A continuación, se presentan dos personas ficticias:
 ### 1.c.1 Carmen Maria
 #### ¿Por que Maria?
->Carmen es una mujer de naturaleza artística, es bastante directa y no suele andar con rodeos. Suele decir las cosas tal y como las piensa, cosa que a veces le da un aire cateto y brusco a pesar de su refinado gusto músical. 
+>Carmen es una mujer de naturaleza artística, es bastante directa y no suele andar con rodeos. Suele decir las cosas tal y como las piensa, cosa que a veces le da un aire cateto y brusco a pesar de su refinado gusto musical. 
 
 >Pasa muchas horas delante del piano pues está entregada al arte al 110% lo que le permite ofrecer un espectáculo de calidad y de muy alto nivel. No obstante, el precio a pagar
 por volar tan alto es la soledad pues le queda muy poco tiempo para el ocio. 
@@ -88,7 +88,7 @@ prolifera el turismo tener en cuenta a una persona cuyo origen es otro país pue
 ## 1.d User Journey Map
 ### 1.d.1 Carmen Maria
 >Carmen decide buscar sitios donde poder vivir
-experiencias gastronómicas. Para ello decide usar internet. A continuación se ofrecen los pasos que realiza y las emociones que le acompañnan
+experiencias gastronómicas. Para ello decide usar internet. A continuación se ofrecen los pasos que realiza y las emociones que le acompañan
 
 ![VER](P1/Journey_Map_Persona_1.png)
 
@@ -105,7 +105,7 @@ prolifera el turismo tener en cuenta a una persona cuyo origen es otro país pue
 ## 1.e Usability Review
 Enlaces a las valoraciones de usabilidad (Usability Reviews):
 
-🔗[Usability Rebiew](P1/Entrega/UsabilityReview.pdf)
+🔗[Usability Review](P1/Entrega/UsabilityReview.pdf)
 
 
 🥈 Valoración final (numérica): 59/100 - Moderado
@@ -118,18 +118,18 @@ Enlaces a las valoraciones de usabilidad (Usability Reviews):
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-Una vez terminada la practica 1, continuamos el desarrollo de esta asignatura con un mapa de empatia de las personas ficticias que hemos ingeniado previamete, Carmen y Antonio. En este mapa intentaremos plasmar de forma especulativa, aunque tal vez estructurada, los aspectos tales como: 
+Una vez terminada la practica 1, continuamos el desarrollo de esta asignatura con un mapa de empatía de las personas ficticias que hemos ingeniado previamente, Carmen y Antonio. En este mapa intentaremos plasmar de forma especulativa, aunque tal vez estructurada, los aspectos tales como: 
 - Lo que puede sentir el usuario
 - Lo que hace y lo que dice
-- Lo que podria escuchar
-- Los beneficios y los incovenientes
+- Lo que podría escuchar
+- Los beneficios y los inconvenientes
 
 El color azul está reservado para Anotio, mientras que el naranja para Carmen. 
 
-![Mapa de empatia](P2/Entrega/Entregables/Empathy%20Map%20Practica%202.png)
+![Mapa de empatía](P2/Entrega/Entregables/Empathy%20Map%20Practica%202.png)
 
 
-[Mapa Empatia version pdf](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
+[Mapa Empatía version pdf](Entrega/Entregables/Empathy%20Map%20Practica%202.pdf)
     
 
 
@@ -161,19 +161,19 @@ Agrupa las actividades ofrecidas por fechas, proporcionando una visión temporal
 - **Tinder de actividades (GastroBuddies)**
 Este servicio extra está enfocado en fomentar la socialización. Para ello, se pretende que :
 
-     1 - El usuario, mediante palabras claves, define el tipo de actividades que le gustaria realizar
+     1 - El usuario, mediante palabras claves, define el tipo de actividades que le gustaría realizar
 
   2 - Estas preferencias se utilizarán para mostrar al usuario las sugerencias relacionadas. De modo que el usuario puede aceptar o rechazar la sugerencia. 
 
-  3 - Una vez que se haya llegado a un número minimo de interesados, se creará un grupo con los participantes y se reservará el sitio. 
+  3 - Una vez que se haya llegado a un número mínimo de interesados, se creará un grupo con los participantes y se reservará el sitio. 
 
   4 - Una vez terminada la actividad, los usuarios podrán valorar su experiencia en cuanto al sitio y los participantes.
 
 
-A continuación, recogemos los puntos claves, o al menos de interes, que han de ser considerados para nuestra propuesta:
+A continuación, recogemos los puntos claves, o al menos de interés, que han de ser considerados para nuestra propuesta:
 
 ![](P2/Entrega/Entregables/scopecanva.png)
-[Descripcion](P2/Entrega/Entregables/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
+[Descripción](P2/Entrega/Entregables/descripcion%20y%20propuesta%20de%20valor.pdf)<br />  
 [ScopeCanva](P2/Entrega/Entregables/scopecanva.pdf)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
@@ -195,7 +195,7 @@ A continuación, ofrecemos nuestra visión en cuanto a la navegabilidad entre lo
 ![SiteMap](P2/Entrega/Entregables/DIU_sitemap.png)  
 
 
-A parte del esquema de navegación, definimos una serie de terminos que se utilizarán en cuanto a lo referente la nuestra página web que viene recogidos en la tabla a continuación. También, sugerimos sugerimos  la consulta de este documento [labeling.pdf](P2/Entrega/Entregables/labelling.pdf)
+A parte del esquema de navegación, definimos una serie de términos que se utilizarán en cuanto a lo referente la nuestra página web que viene recogidos en la tabla a continuación. También, sugerimos sugerimos  la consulta de este documento [labeling.pdf](P2/Entrega/Entregables/labelling.pdf)
 
 Término | Significado     
 | ------------- | -------
@@ -232,7 +232,7 @@ La imagen que aparece a continuación representa nuestra visión de la página w
 ### Desktop
 Para los usuarios desktop, ofrecemos la siguiente representación esquemática. Los elementos a destacar son
 - La cabecera que tendrá logo, opción de iniciar sesión y el menu de navegación.
-- La parte central mostrará un calendario con todos los eventos disponibles. Queda pendiente establecer cómo se representarán múltiples eventos en un mismo día; sin embargo, en esta etapa, consideramos que es un aspecto trivial y tal vez, inlcuso, irrelevante.
+- La parte central mostrará un calendario con todos los eventos disponibles. Queda pendiente establecer cómo se representarán múltiples eventos en un mismo día; sin embargo, en esta etapa, consideramos que es un aspecto trivial y tal vez, incluso, irrelevante.
 
 
 ![Desktop](P2/Entrega/Entregables/wireframe_Desktop.png)
@@ -317,7 +317,7 @@ Elemento/s: carousel + hero image, NavBar, lista, item details, actions
 
 Elemento/s: logo, button, form input
 
-![Registro e inicio de sessión](P3/mediaP3/reg_y_session.png)
+![Registro e inicio de sesión](P3/mediaP3/reg_y_session.png)
 
 Elemento/s: card, comentarios, button
 
@@ -325,7 +325,7 @@ Elemento/s: card, comentarios, button
 
 ![GastroBuddies](P3/mediaP3/gastrobuddies.png)
 
-![Opercion con exito y Contacto](P3/mediaP3/exito_y_contacto.png)
+![Operación con éxito y Contacto](P3/mediaP3/exito_y_contacto.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
@@ -383,7 +383,6 @@ Debido a esta variabilidad en los resultados y a la limitada cantidad de datos r
 
 
 - **#USER1: Juan** Resultado excelente. Indica que este usuario experimentó una alta usabilidad y está altamente satisfecho con el sistema.
-
 - **#USER2: Maria**: Resultado marginal. Sugiere que este usuario encontró algunos problemas o dificultades con el sistema, lo que afectó negativamente su experiencia de uso.
 
 - **#USER3: Pepe**: Resultado marginal. Similar al caso anterior, este usuario también enfrentó desafíos en el uso del sistema, lo que resultó en una experiencia de usuario menos satisfactoria.
