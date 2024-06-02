@@ -332,37 +332,8 @@ Elemento/s: card, comentarios, button
 
 
 ![Demo](P3/mediaP3/demo.gif)
-![Demo](P3/mediaP3/Grabación%202024-05-30%20124742.mp4)
 
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
 
 
 
@@ -422,6 +393,37 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+
+
+
+## Paso 5. Exportación & evaluación con Eye Tracking 
+
+Exportación a HTML/Flutter
+-----
+
+![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+
+>>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+
+Diseño del experimento 
+----
+
+>> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+
+
+![experimento](img/experimentoET.png)  
+>> cambiar img por tu diseño de experimento  
+
+>> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+
+Resultados y valoración 
+-----
+
+
+
+>> Cambiar por tus resultados
+![Resultado](img/resultadoET.png)  
 
 
 
