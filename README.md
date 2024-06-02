@@ -338,6 +338,7 @@ Elemento/s: card, comentarios, button
 ## Paso 4. Evaluación 
 
 
+
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
@@ -350,8 +351,7 @@ El Recetario es una app que celebra la innovación y autenticidad culinaria, ofr
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
-Tal y como sugiere el guión, hemos utilizado los dados para generar 4 personas ficticias para realizar las pruebas.
-
+Hemos simulado mediante la sofisticada técnica de uso de los dados. El resultado de la aplicación de esta es tal que así: 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -363,24 +363,45 @@ Tal y como sugiere el guión, hemos utilizado los dados para generar 4 personas 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
+| Identificador | Usuario   |
+|---------------|-----------|
+| #USER1        | Juan      |
+| #USER2        | Maria     |
+| #USER3        | Pepe      |
+| #USER4        | Isabel    |
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal
 
 ![Test SUS](img/testSUS.JPG)
+
+Se puede observar que la muestra de resultados obtenidos es demasiado reducida para realizar estimaciones fiables que vayan más allá de la interpretación individual de cada usuario.
+
+- #USER1: se obtuvo un resultado excelente.
+- #USER2 y #USER3: los resultados fueron marginales.
+- #USER44: el resultado fue aceptable.
+
+Debido a esta variabilidad en los resultados y a la limitada cantidad de datos recopilados, resulta poco prudente realizar comparaciones o extraer conclusiones generales sobre la usabilidad del sistema. Aun así, es posible darle un significado a las aportaciones de cada participante:
+
+
+- **#USER1: Juan** Resultado excelente. Indica que este usuario experimentó una alta usabilidad y está altamente satisfecho con el sistema.
+
+- **#USER2: Maria**: Resultado marginal. Sugiere que este usuario encontró algunos problemas o dificultades con el sistema, lo que afectó negativamente su experiencia de uso.
+
+- **#USER3: Pepe**: Resultado marginal. Similar al caso anterior, este usuario también enfrentó desafíos en el uso del sistema, lo que resultó en una experiencia de usuario menos satisfactoria.
+- **#USER4: Isabel**: Resultado aceptable. Este usuario experimentó una usabilidad razonable del sistema, aunque podría haber áreas de mejora identificadas.
+
+
 ---
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+En cuanto a usability report, a continuación adjuntamos el enlace y  ~~proponemos~~ insistimos en la lectura  del documento [usability report](P4/P4_UsabReport_DIU1.JORSES_doneby_DIU2_2Voces1Compas.md) correspondiente a la práctica 4.
 
 
-
->>> Valoración personal 
+En cuanto a la valoración personal:
+- El prototipo es bastante consistente. La paleta de colores elegida es agradable visualmente y la agrupación de información ha sido una buena decisión. Aun así, a mi parecer, hay demasiada información para una pantalla móvil.
+- Los iconos deberían tener alguna descripción debajo para indicar su función.
+- Las páginas de login y registro deberían estar separadas.
 
 
 
