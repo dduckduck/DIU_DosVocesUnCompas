@@ -5,13 +5,13 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... )
 
 ## Proyecto: GastroBuddies
 
-### Descripción: 
-Logotipo: 
+### Logotipo: 
 
 ![](P3/mediaP3/logo.png)
 
+### Descripción: 
 
-Este proyecto consiste en ofrecer una aplciación para los dispositivos moviles que permita conocer oferta gastrónomica en Granada y conocer gente. 
+Este proyecto consiste en ofrecer una aplicación para los dispositivos moviles que permita conocer oferta gastrónomica en Granada y conocer gente. 
 
 
 
@@ -335,29 +335,29 @@ Elemento/s: card, comentarios, button
 
 
 
-
-
 ## Paso 4. Evaluación 
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+El caso asignado es [DIU1.Jorses](https://github.com/DIU1-Jorses/DIU_P) (El recetario) 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El Recetario es una app que celebra la innovación y autenticidad culinaria, ofreciendo recetas de diferentes culturas, cursos y eventos gastronómicos. Su objetivo es hacer la cocina accesible, divertida y gratificante, proporcionando contenido de alta calidad que instruye e inspira.
 
+![logo](https://github.com/DIU1-Jorses/DIU_P/raw/master/img/Logo.png)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Tal y como sugiere el guión, hemos utilizado los dados para generar 4 personas ficticias para realizar las pruebas.
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Juan     | H / 24   | Estudiante   | Alta        | Extrovertido | Web          | A 
 | Maria    | M / 45   | Ama de casa  | Media       | Aburrida     | Movil        | A 
-| Pepe     | H / 60   | Carpintero   | Baja        | Gruñon       | Web          | B 
+| Pepe     | H / 60   | Carpintero   | Baja        | Gruñón       | Web          | B 
 | Isabel   | M / 32   | Profesor     | Media       | Insegura     | Movil        | B 
 
 
